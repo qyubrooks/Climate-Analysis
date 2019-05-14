@@ -46,7 +46,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
   * Plot the results as a histogram with `bins=12`.
   
-# Final Charts:
+### Final Analysis Charts:
 ![TemperatureFrequency](Precipitation.png)
 
 ![TemperatureFrequency](Temperature_vs_Frequency.png)
