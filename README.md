@@ -15,7 +15,12 @@ Also included an Flask API Application to query:
 * Temperature Observations (tobs) for the previous year
 * Minimum temperature, the average temperature, and the max temperature for a given start and/or start-end range inlcusive.
 
-  
+## Step 2: Create a Climate App
+
+Design a Flask API based on the queries that I have just developed.
+
+* Use FLASK to create routes.
+
 ### Final Analysis Charts:
 ![TemperatureFrequency](Precipitation.png)
 
@@ -25,9 +30,9 @@ Also included an Flask API Application to query:
 
 - - -
 
-## Step 2: Create a Climate App
+## Technologies
 
-Design a Flask API based on the queries that I have just developed.
-
-* Use FLASK to create routes.
-
+* Pandas, Jupyter
+* Flask
+* SQLAlchemy
+* Python
